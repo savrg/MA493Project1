@@ -1,3 +1,6 @@
+% k++ initialization outlined in project instructions (doing what kmeans does without using kmeans function in MATLAB).
+
+
 load Q1data.mat;
 
 function [c,IndexSet]= kppinitial(XData,k,varargin)
