@@ -1,4 +1,6 @@
-% Run me!
+%Q1a: random initialization by sampling components using a uniform distribution for each component on the interval [−1.2, 1.2].
+
+%Run me!
 % Clear the workspace and close all figure windows
 clear all
 close all
